@@ -1,7 +1,9 @@
 ; Rainmeter Glados potato Public V 1.1.1
+
 ; Written by Reece Ram
+
 ; https://www.deviantart.com/izy2091/art/1056975307
-;
+
 ; Raw file code below
 
 [Rainmeter]
