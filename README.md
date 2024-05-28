@@ -2,9 +2,11 @@
 
 ; Written by Reece Ram
 
-; https://www.deviantart.com/izy2091/art/1056975307
+;This is a interactive Portal 2 themed Rainmeter widget that will greet you and speak when clicked. Special day events can be activated if entered in the Rainmeter file.
 
-; Raw file code below
+; Also hosted here: https://www.deviantart.com/izy2091/art/1056975307
+
+; Code in program visible below
 
 [Rainmeter]
 Update=1000
